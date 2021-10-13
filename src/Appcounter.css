@@ -1,0 +1,12 @@
+.number{
+    font-size: 50px;
+}
+.button{
+    margin: 20px;
+    border-radius: 5px;
+    border-color: black;
+    color: maroon;
+    background-color: antiquewhite;
+    font-size: 50px;
+    cursor: alias;
+}
